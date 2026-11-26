@@ -1,6 +1,6 @@
-# [App Name] ⚽
+# [Mini Foot] ⚽
 
-A mobile application for Tunisian mini-foot (5v5 / 7v7) players to organize matches, invite friends, and discover nearby local stadiums right from their phones.
+A mobile application for Tunisian mini-foot players to organize matches, invite friends, and discover nearby local stadiums right from their phones.
 
 ## About This Project
 This app was built as a school assignment early in my JavaScript and mobile development journey using an AI-assisted ("vibe coding") workflow. **I pushed this project to GitHub to practice real-world version control and learn more about Git and GitHub workflows**, while taking a local Tunisian mini-foot concept from an idea to a working React Native prototype.
@@ -23,11 +23,11 @@ This app was built as a school assignment early in my JavaScript and mobile deve
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com[your-username]/[repo-name].git
+   git clone https://github.com/oussamamhenni69/minifoot.tn.git
    ```
 2. Navigate into the project folder and install dependencies:
    ```bash
-   cd [repo-name]
+   cd [minifoot.tn]
    npm install
    ```
 3. Start the app:
